@@ -1,2 +1,6 @@
-# python-CI-template
-Python CI template for EC500 Software Engineering
+# FFMPEG:
+
+```
+python3 main.py
+```
+
