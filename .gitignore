@@ -103,6 +103,8 @@ venv.bak/
 # mypy
 .mypy_cache/
 
-vscode/
+*vscode/
+*.json
 
 *nyc_output/
+*.json
