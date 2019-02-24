@@ -103,4 +103,6 @@ venv.bak/
 # mypy
 .mypy_cache/
 
-.vscode
+.vscode/
+
+.nyc_output/
